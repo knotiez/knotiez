@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![프로젝트 이미지](https://github.com/leejm9/Cool-Trade?tab=readme-ov-file#readme)
+
 <!--
 **knotiez/knotiez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
